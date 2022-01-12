@@ -1,0 +1,19 @@
+{
+  "name": "typescript-deep-dive",
+  "version": "1.0.0",
+  "description": "Rebuild of a youtube video",
+  "main": "app.ts",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/uuid": "^8.3.4",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sidney Klass",
+  "license": "ISC"
+}
